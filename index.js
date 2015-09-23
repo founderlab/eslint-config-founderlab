@@ -3,6 +3,7 @@
 module.exports = {
   "extends": "airbnb",
   "rules": {
+    "spaced-comment": 0,                  // http://eslint.org/docs/rules/spaced-comment
     "camelcase": 0,                       // http://eslint.org/docs/rules/camelcase
     "padded-blocks": 0,                   // http://eslint.org/docs/rules/padded-blocks
     "no-shadow": 0,                       // http://eslint.org/docs/rules/no-shadow
