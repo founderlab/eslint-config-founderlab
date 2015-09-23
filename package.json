@@ -6,6 +6,6 @@
   "author": "Gwilym Humphreys (https://github.com/gwilymhumphreys)",
   "license": "None",
   "dependencies": {
-    "eslint-plugin-react": "^3.4.2"
+    "eslint-config-airbnb": "0.0.8",
   }
 }
