@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-founderlab",
+  "version": "0.0.1",
+  "description": "Eslint config for FounderLab projects",
+  "main": "index.js",
+  "author": "Gwilym Humphreys (https://github.com/gwilymhumphreys)",
+  "license": "None",
+  "dependencies": {
+    "eslint-plugin-react": "^3.4.2"
+  }
+}
