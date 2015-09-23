@@ -3,6 +3,8 @@
 module.exports = {
   "extends": "airbnb",
   "rules": {
+    "padded-blocks": 0,
+    "no-shadow": 0,
     "space-infix-ops": 0,
     'no-console': 0,                 // http://eslint.org/docs/rules/no-console
     "semi": [2, "never"]              // http://eslint.org/docs/rules/semi
