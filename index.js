@@ -3,6 +3,7 @@
 module.exports = {
   "extends": "airbnb",
   "rules": {
+    "camelcase": 0,
     "padded-blocks": 0,
     "no-shadow": 0,
     "space-infix-ops": 0,
