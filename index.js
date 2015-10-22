@@ -4,6 +4,12 @@ var airbnb = require('eslint-config-airbnb')
 module.exports = merge(airbnb, {
   // "extends": "airbnb",
   "rules": {
+    "brace-style": [                      // http://eslint.org/docs/rules/brace-style
+      2,
+      "stroustrup", {
+        "allowSingleLine": true
+      }
+    ],
     "spaced-comment": 0,                  // http://eslint.org/docs/rules/spaced-comment
     "camelcase": 0,                       // http://eslint.org/docs/rules/camelcase
     "padded-blocks": 0,                   // http://eslint.org/docs/rules/padded-blocks
