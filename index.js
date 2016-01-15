@@ -1,7 +1,7 @@
-var merge = require('lodash/object/merge')
+var _ = require('lodash')
 var airbnb = require('eslint-config-airbnb')
 
-module.exports = merge(airbnb, {
+module.exports = _.merge(airbnb, {
   // "extends": "airbnb",
   "rules": {
     "brace-style": [                      // http://eslint.org/docs/rules/brace-style
