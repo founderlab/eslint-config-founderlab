@@ -19,5 +19,6 @@ module.exports = _.merge(airbnb, {
     "no-console": 0,                      // http://eslint.org/docs/rules/no-console
     "semi": [2, "never"],                 // http://eslint.org/docs/rules/semi
     "no-unexpected-multiline": 2,         // http://eslint.org/docs/rules/no-unexpected-multiline
+    "eqeqeq": 0,                          // http://eslint.org/docs/rules/eqeqeq
   }
 })
