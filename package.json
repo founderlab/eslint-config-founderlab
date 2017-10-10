@@ -10,7 +10,10 @@
     "url": "https://github.com/founderlab/eslint-config-founderlab"
   },
   "dependencies": {
-    "eslint-config-airbnb": "0.0.8",
-    "lodash": "^4.13.1"
+    "lodash": "^4.13.1",
+    "eslint-config-airbnb": "^16.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
   }
 }
