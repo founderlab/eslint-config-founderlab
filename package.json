@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-founderlab",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Eslint config for FounderLab projects",
   "main": "index.js",
   "author": "Gwilym Humphreys (https://github.com/gwilymhumphreys)",
