@@ -54,5 +54,7 @@ module.exports = _.merge(airbnb, {
     "react/prefer-stateless-function": 0,
     "react/forbid-prop-types": 0,
     "react/require-default-props": 0,
+
+    "jsx-a11y/anchor-is-valid": 0,
   }
 })
