@@ -22,6 +22,7 @@ module.exports = _.merge(airbnb, {
     "eqeqeq": 0,                          // http://eslint.org/docs/rules/eqeqeq
 
     // Added with eslint-config-airbnb@16
+    "space-before-function-paren": 0,
     "arrow-body-style": 0,
     "arrow-parens": 0,
     "consistent-return": 0,
@@ -52,5 +53,6 @@ module.exports = _.merge(airbnb, {
     "react/jsx-filename-extension": 0,
     "react/prefer-stateless-function": 0,
     "react/forbid-prop-types": 0,
+    "react/require-default-props": 0,
   }
 })
