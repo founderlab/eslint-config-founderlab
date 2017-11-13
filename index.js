@@ -31,6 +31,7 @@ module.exports = _.merge(airbnb, {
     "max-len": 0,
     "newline-per-chained-call": 0,
     "no-case-declarations": 0,
+    "no-confusing-arrow": 0,
     "no-mixed-operators": 0,
     "no-multi-assign": 0,
     "no-multi-spaces": 0,
