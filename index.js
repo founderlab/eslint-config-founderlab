@@ -45,7 +45,7 @@ module.exports = _.merge(airbnb, {
     "no-unneeded-ternary": 0,
     "no-unused-expressions": 0,
     "object-curly-newline": 0,
-    "object-curly-spacing": [2, "never"],
+    "object-curly-spacing": [0],
     "prefer-destructuring": 0,
     "prefer-template": 0,
     "quotes": [2, "single", {"allowTemplateLiterals": true}],
