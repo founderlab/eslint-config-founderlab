@@ -23,6 +23,9 @@ module.exports = _.merge(airbnb, {
 
     // Added with eslint-config-airbnb@16
     "no-restricted-syntax": 0,
+    "no-prototype-builtins": 0,
+    "no-confusing-arrow": 0,
+    "no-nested-ternary": 0,
     "no-await-in-loop": 0,
     "no-confusing-arrow": 0,
     "arrow-body-style": 0,
