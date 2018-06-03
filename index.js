@@ -22,6 +22,7 @@ module.exports = _.merge(airbnb, {
     "eqeqeq": 0,                          // http://eslint.org/docs/rules/eqeqeq
 
     // Added with eslint-config-airbnb@16
+    "no-plusplus": 0,
     "no-restricted-syntax": 0,
     "no-prototype-builtins": 0,
     "no-confusing-arrow": 0,
