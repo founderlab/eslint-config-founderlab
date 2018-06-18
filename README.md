@@ -1,7 +1,6 @@
 # FounderLab JavaScript style guide
 
 ### Use the [Airbnb Style Guide](https://github.com/airbnb/javascript) without semicolons
-Some rules have been relaxed also.
 
 Remember to not start lines with a '(' or '[' (or '/' or any operator really).
 
