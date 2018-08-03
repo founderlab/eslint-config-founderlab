@@ -23,6 +23,8 @@ module.exports = _.merge(airbnb, {
     "indent": [2, 2, {"SwitchCase": 1}],
     "max-len": 0,
     "newline-per-chained-call": 0,
+    "no-alert": 0,
+    "no-restricted-globals": 0,
     "no-await-in-loop": 0,
     "no-case-declarations": 0,
     "no-confusing-arrow": 0,
@@ -74,7 +76,9 @@ module.exports = _.merge(airbnb, {
     "react/require-default-props": 0,
     "react/sort-comp": 0,
 
+    "jsx-a11y/accessible-emoji": 0,
     "jsx-a11y/anchor-is-valid": 0,
     "jsx-a11y/click-events-have-key-events": 0,
+    "jsx-a11y/label-has-for": 0,
   }
 })
